@@ -81,7 +81,7 @@ export default {
   width: 40px;
   height: 40px;
   border-radius: 50em;
-  background: var(--bs-danger);
+  background: var(--bs-dark);
   color: var(--bs-light);
   border: 0;
 }
@@ -93,7 +93,7 @@ export default {
   width: 40px;
   height: 40px;
   border-radius: 50em;
-  background: var(--bs-warning);
+  background: var(--bs-success);
   color: var(--bs-dark);
   border: 0;
 }
